@@ -12,3 +12,4 @@
 /Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.pdb
 /Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
 /Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/ref/FactoryMethod.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.sourcelink.json
