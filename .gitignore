@@ -1,8 +1,4 @@
-
-/AbstractFactory/obj
-/AbstractFactory/bin
-/FactoryMethod/obj
-/FactoryMethod/bin
-/Builder/bin
 *.cache
-/Builder/obj
+**/bin/
+**/obj/
+.DS_Store
