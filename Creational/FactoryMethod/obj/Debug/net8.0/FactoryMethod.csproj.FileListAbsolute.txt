@@ -1,0 +1,15 @@
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/bin/Debug/net8.0/FactoryMethod
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/bin/Debug/net8.0/FactoryMethod.deps.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/bin/Debug/net8.0/FactoryMethod.runtimeconfig.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/bin/Debug/net8.0/FactoryMethod.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/bin/Debug/net8.0/FactoryMethod.pdb
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfo.cs
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.sourcelink.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/refint/FactoryMethod.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.pdb
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/FactoryMethod/obj/Debug/net8.0/ref/FactoryMethod.dll

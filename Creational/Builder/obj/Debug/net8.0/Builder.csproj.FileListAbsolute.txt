@@ -1,0 +1,15 @@
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/Builder.sourcelink.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/bin/Debug/net8.0/Builder
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/bin/Debug/net8.0/Builder.deps.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/bin/Debug/net8.0/Builder.runtimeconfig.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/bin/Debug/net8.0/Builder.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/bin/Debug/net8.0/Builder.pdb
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/Builder.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/refint/Builder.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/Builder.pdb
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/Builder.genruntimeconfig.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/Builder/obj/Debug/net8.0/ref/Builder.dll

@@ -1,0 +1,15 @@
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.AssemblyInfo.cs
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.sourcelink.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.deps.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.runtimeconfig.json
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.pdb
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/refint/AbstractFactory.dll
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.pdb
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.genruntimeconfig.cache
+/Users/tejaschoudhari/INTERVIEW_PREP/DesignPatterns/AbstractFactory/obj/Debug/net8.0/ref/AbstractFactory.dll
