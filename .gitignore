@@ -1,3 +1,8 @@
 
 /AbstractFactory/obj
 /AbstractFactory/bin
+/FactoryMethod/obj
+/FactoryMethod/bin
+/Builder/bin
+*.cache
+/Builder/obj
