@@ -1,1 +1,18 @@
 ﻿
+Open/Closed Principle (OCP) in C#
+
+The Open/Closed Principle states that software entities (classes, modules, functions, etc.) should be 
+open for extension but closed for modification. This means you can add new functionality by extending
+existing code rather than altering it, reducing the risk of breaking existing features.
+
+
+Advantages of the Open/Closed Principle (OCP)
+
+Enhanced Stability: Extending functionality without modifying existing code reduces the 
+	risk of introducing bugs in a stable codebase.
+
+Improved Maintainability: OCP encourages modular design, making the system easier 
+	to update and maintain over time.
+
+Increased Scalability and Reusability: New features can be added as separate modules or classes, 
+	which promotes reusability and supports growth without disrupting current functionality.
