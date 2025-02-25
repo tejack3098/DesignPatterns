@@ -25,7 +25,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID_Principles", "SOLID_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Responsibility", "SOLID_Principles\Single_Responsibility\Single_Responsibility.csproj", "{C91F455C-87FF-4E42-A16E-53ADE8F79883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosed", "OpenClosed\OpenClosed.csproj", "{2530DAE7-1334-424F-AFCB-F40766B04A53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosed", "SOLID_Principles\OpenClosed\OpenClosed.csproj", "{2530DAE7-1334-424F-AFCB-F40766B04A53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8CD2A5EF-2DE8-42D1-9F7C-80F573138947}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
