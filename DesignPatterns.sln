@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID_Principles", "SOLID_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Responsibility", "SOLID_Principles\Single_Responsibility\Single_Responsibility.csproj", "{C91F455C-87FF-4E42-A16E-53ADE8F79883}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosed", "OpenClosed\OpenClosed.csproj", "{2530DAE7-1334-424F-AFCB-F40766B04A53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C91F455C-87FF-4E42-A16E-53ADE8F79883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C91F455C-87FF-4E42-A16E-53ADE8F79883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C91F455C-87FF-4E42-A16E-53ADE8F79883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2530DAE7-1334-424F-AFCB-F40766B04A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2530DAE7-1334-424F-AFCB-F40766B04A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2530DAE7-1334-424F-AFCB-F40766B04A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2530DAE7-1334-424F-AFCB-F40766B04A53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{19C94219-B101-4146-AE84-99DE72050FDC} = {1A31F076-9D5D-4B33-83E4-CB2D9E531334}
 		{CB16B137-4F99-4A72-9A91-2631AF59BF14} = {1A31F076-9D5D-4B33-83E4-CB2D9E531334}
 		{C91F455C-87FF-4E42-A16E-53ADE8F79883} = {F09E123C-0EC6-4874-8C63-64828DDC07BC}
+		{2530DAE7-1334-424F-AFCB-F40766B04A53} = {F09E123C-0EC6-4874-8C63-64828DDC07BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6ECD815E-5BB9-4BB6-9203-AF418DA727B8}
